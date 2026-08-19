@@ -1,0 +1,10 @@
+{
+  "name": "github-actions-ci-lab",
+  "version": "1.0.0",
+  "description": "A Node.js project for learning GitHub Actions CI/CD",
+  "scripts": {
+    "test": "node --test src/calculator.test.js"
+  },
+  "keywords": [],
+  "license": "ISC"
+}
